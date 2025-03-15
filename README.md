@@ -5,7 +5,7 @@ This project aims to build a robust deep learning model to classify various land
 
 ## Team Members:
 - Mahmoud Ebrahim Ebrahim
--
+- Wageeh Abdelhameed Abdelaziz
 -
 -
 -
