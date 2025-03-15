@@ -7,7 +7,7 @@ This project aims to build a robust deep learning model to classify various land
 - Mahmoud Ebrahim Ebrahim
 - Wageeh Abdelhameed Abdelaziz
 - Abdulrhman Hosny Kheder
--
+- Mohamed Mahmoud Elseragy 
 -
 -
 
