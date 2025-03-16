@@ -8,7 +8,7 @@ This project aims to build a robust deep learning model to classify various land
 - Wageeh Abdelhameed Abdelaziz
 - Abdulrhman Hosny Kheder
 - Mohamed Mahmoud Elseragy 
--
+- Ahmed Fouad Hafez
 -
 
 ## Dataset
