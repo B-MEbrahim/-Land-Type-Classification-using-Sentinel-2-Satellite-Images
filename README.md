@@ -9,7 +9,7 @@ This project aims to build a robust deep learning model to classify various land
 - Abdulrhman Hosny Kheder
 - Mohamed Mahmoud Elseragy 
 - Ahmed Fouad Hafez
-- Hassan Abdulrazik Alsaed
+- Hassan Abdelrazek
 
 ## Dataset
 We used the [EuroSAT dataset](https://github.com/phelber/EuroSAT) for training our land classification model.
